@@ -2,6 +2,7 @@
 description: 可私有化部署的企业级文档管理系统
 cover: .gitbook/assets/banner.jpg
 coverY: 0
+layout: landing
 ---
 
 # 丰盘ECM产品介绍
