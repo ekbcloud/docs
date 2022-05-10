@@ -24,7 +24,7 @@ sudo wget https://ota.xpan.ekbcloud.com/app/xpan-install.sh -O xpan-install.sh &
 
 运行脚本之后，丰盘安装程序会询问一些必要参数，如下：
 
-1. 丰盘对外使用的端口？；
+1. 丰盘对外使用的端口？
 2. 是否开启HTTPS？
 3. 当前系统时间是否需要修正？
 
@@ -44,7 +44,9 @@ sudo wget https://ota.xpan.ekbcloud.com/app/xpan-install.sh -O xpan-install.sh &
 
 访问 [丰盘许可证站点 (ekbcloud.com)](https://ota.xpan.ekbcloud.com/app/)， 使用您的企业邮箱注册并获得丰盘社区版的许可证，然后从邮箱中获取许可证填入丰盘ECM系统激活即可。
 
-> :bulb:丰盘产品仅面向企业用户开放，不支持使用 163.com/qq.com/gmail.com 等个人邮箱注册，需要使用您的企业邮箱注册， 后续的产品更新、许可证管理等均绑定此注册邮箱。
+{% hint style="info" %}
+丰盘产品仅面向企业用户开放，不支持使用 163.com/qq.com/gmail.com 等个人邮箱注册，需要使用您的企业邮箱注册， 后续的产品更新、许可证管理等均绑定此注册邮箱。
+{% endhint %}
 
 ![输入许可证激活系统](../.gitbook/assets/输入许可证激活丰盘产品.png)
 
