@@ -1,6 +1,6 @@
 ---
 description: 可私有化部署的企业级文档管理系统
-cover: .gitbook/assets/官网截图.png
+cover: .gitbook/assets/banner.jpg
 coverY: 0
 ---
 
