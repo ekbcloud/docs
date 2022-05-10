@@ -2,6 +2,7 @@
 description: 可私有化部署的企业级文档管理系统
 cover: .gitbook/assets/banner.jpg
 coverY: 0
+layout: landing
 ---
 
 # 丰盘ECM产品介绍
@@ -15,3 +16,11 @@ coverY: 0
 * 社区版永久免费，且不限人数、不限容量、不限带宽；
 * 基于空间（个人/部门/项目）的直观的文档组织模式；
 * 支持RBAC模型，以及空间/目录层级的细粒度权限管控；
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
