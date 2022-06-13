@@ -38,7 +38,7 @@ sudo wget https://ota.xpan.ekbcloud.com/app/xpan-install.sh -O xpan-install.sh &
 
 安装完成之后，系统将自动打印丰盘系统所使用的Postgresql数据库的管理员密码，以便后续排障或人工维护时使用。以及丰盘系统网页端登录时使用的管理员账号及初始密码，管理员可通过IP登录系统，并按系统要求重置管理员密码，然后按系统提示输入许可证进行系统激活。
 
-![安装完成](<../.gitbook/assets/image (3) (1).png>)
+![安装完成](<../.gitbook/assets/image (3) (1) (1).png>)
 
 ## 步骤三：免费获得许可证授权码
 

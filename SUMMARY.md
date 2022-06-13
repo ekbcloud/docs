@@ -6,6 +6,7 @@
 ## 管理员手册 <a href="#admin_manual" id="admin_manual"></a>
 
 * [安装部署](admin\_manual/setup.md)
+* [如何升级](admin\_manual/ru-he-sheng-ji.md)
 * [技术架构](admin\_manual/ji-shu-jia-gou.md)
 * [常见问题](admin\_manual/chang-jian-wen-ti.md)
 
