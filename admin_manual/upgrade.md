@@ -22,8 +22,8 @@
 
 **升级遇到问题？可以查看下面常见问题，或访问产品反馈论坛留言给我们** :relaxed:
 
-{% content-ref url="chang-jian-wen-ti.md" %}
-[chang-jian-wen-ti.md](chang-jian-wen-ti.md)
+{% content-ref url="faq.md" %}
+[faq.md](faq.md)
 {% endcontent-ref %}
 
 {% embed url="https://xpan-ekbcloud.canny.io/" %}
